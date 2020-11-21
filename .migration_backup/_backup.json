@@ -1,0 +1,23 @@
+{
+	"name": "migration",
+	"paths": [
+		"hooks",
+		"webpack.config.js",
+		"package.json",
+		"package-lock.json",
+		"tsconfig.tns.json",
+		"app/package.json",
+		"package.json",
+		"app/package.json",
+		"app/app.component.js",
+		"app/app.module.js",
+		"app/app.routing.js",
+		"app/list/list.component.js",
+		"app/login/login.component.js",
+		"app/main.js",
+		"app/shared/config.js",
+		"app/shared/status-bar-util.js",
+		"app/shared/user/user.model.js",
+		"app/shared/user/user.service.js"
+	]
+}
