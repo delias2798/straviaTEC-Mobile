@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f3eb7fb-1259-40bb-8515-0aa17608d6da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kcNsnMeQssWxmfmVem9p3lsLkP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.ns.project" value="true" />
+    <property name="js.ns.project.flavor" value="Angular" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f3eb7fb-1259-40bb-8515-0aa17608d6da" name="Default Changelist" comment="" />
+      <created>1605996128905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605996128905</updated>
+      <workItem from="1605996137840" duration="1011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/shared/user/user.service.js" />
+        <option value="$PROJECT_DIR$/app/shared/user/user.model.js" />
+        <option value="$PROJECT_DIR$/app/shared/status-bar-util.js" />
+        <option value="$PROJECT_DIR$/app/shared/config.js" />
+        <option value="$PROJECT_DIR$/app/login/login.component.js" />
+        <option value="$PROJECT_DIR$/app/list/list.component.js" />
+        <option value="$PROJECT_DIR$/app/app.module.js" />
+        <option value="$PROJECT_DIR$/app/main.js" />
+        <option value="$PROJECT_DIR$/app/app.routing.js" />
+        <option value="$PROJECT_DIR$/app/app.component.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1275" height="531" key="GridCell.Tab.0.bottom" timestamp="1605997151519">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state width="1275" height="531" key="GridCell.Tab.0.bottom/45.27.1321.741@45.27.1321.741" timestamp="1605997151519" />
+    <state width="1275" height="531" key="GridCell.Tab.0.center" timestamp="1605997151518">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state width="1275" height="531" key="GridCell.Tab.0.center/45.27.1321.741@45.27.1321.741" timestamp="1605997151518" />
+    <state width="1275" height="531" key="GridCell.Tab.0.left" timestamp="1605997151517">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state width="1275" height="531" key="GridCell.Tab.0.left/45.27.1321.741@45.27.1321.741" timestamp="1605997151517" />
+    <state width="1275" height="531" key="GridCell.Tab.0.right" timestamp="1605997151518">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state width="1275" height="531" key="GridCell.Tab.0.right/45.27.1321.741@45.27.1321.741" timestamp="1605997151518" />
+  </component>
+</project>
