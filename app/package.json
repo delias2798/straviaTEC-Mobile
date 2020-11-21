@@ -1,0 +1,10 @@
+{
+    "android": {
+        "v8Flags": "--expose_gc",
+        "forceLog": true,
+        "markingMode": "none"
+    },
+    "name": "nativescript-template-ng-groceries",
+    "version": "3.0.0",
+    "main": "main.js"
+}

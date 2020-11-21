@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{},"exports":[{"from":"@nativescript/angular/router/ns-location-strategy","export":["LocationState"]},{"from":"@nativescript/angular/router/router.module"}]}]
