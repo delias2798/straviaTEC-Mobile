@@ -51,6 +51,6 @@
         "@nativescript/android": "7.0.1",
         "@nativescript/types": "7.0.0",
         "@ngtools/webpack": "8.3.24",
-        "typescript": "^3.4.5"
+        "typescript": "~3.4.5"
     }
 }
